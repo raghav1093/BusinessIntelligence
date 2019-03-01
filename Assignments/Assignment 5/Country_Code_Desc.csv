@@ -1,0 +1,112 @@
+COUNTRY_CODE,COUNTRY_NAME,CURRENCY,CONVERSION_RATE,LANGU
+AFG,Afghanistan,AFN,68,E
+ALG,Algeria,DZD,110.36,E
+ANG,Angola,AOA,165.73,E
+ARG,Argentina,ARS,15.02,E
+AUS,Australia,AUD,1.33,E
+AUT,Austria,EUR,0.9,E
+AZE,Azerbaijan,AZN,1.55,E
+BAN,Bangladesh,BDT,78.25,E
+BEL,Belgium,EUR,0.9,E
+BHU,Bhutan,BTN,67.19,E
+BLR,Belarus,BYR,20096.46,E
+BOL,Bolivia,BOB,6.89,E
+BRA,Brazil,BRL,3.24,E
+BUL,Bulgaria,BGN,1.76,E
+CAN,Canada,CAD,1.29,E
+CHL,Chile,CPL,661.63,E
+CHI,China,CNY,6.64,E
+CMR,Cameroon,CFA,588.96,E
+COL,Colombia,COP,2916.64,E
+COS,Costa Rica,CRC,546.7,E
+CRO,Croatia,HRK,6.76,E
+CUB,Cuba,CUP,1,E
+CZE,Czech Republic,CZK,24.34,E
+DEN,Denmark,DKK,6.68,E
+ECU,Ecuador,ECS,25214.7,E
+EGY,Egypt,EGP,8.88,E
+ERI,Eritrea,ERN,15.67,E
+ETH,Ethiopia,ETB,21.9,E
+FIN,Finland,EUR,0.9,E
+FRA,France,EUR,0.9,E
+GEO,Georgia,GEL,2.33,E
+GER,Germany,EUR,0.9,E
+GHA,Ghana,GHS,3.95,E
+GRC,Greece,EUR,0.9,E
+GRN,Greenland,DKK,6.68,E
+HON,Hong Kong,HKD,7.76,E
+HUN,Hungary,HUF,284.77,E
+ICE,Iceland,ISK,122.6,E
+IDN,Indonesia,IDR,13094.97,E
+IND,India,INR,67.19,E
+IRA,Iran,IRR,30721.97,E
+IRE,Ireland,EUR,0.9,E
+IRQ,Iraq,IQD,1166.63,E
+ISR,Israel,ILS,3.85,E
+ITA,Italy,EUR,0.9,E
+JAM,Jamaica,JMD,126.6,E
+JAP,Japan,JPY,102.73,E
+JOR,Jordan,JOD,0.71,E
+KAZ,Kazakhstan,KZT,337.32,E
+KEN,Kenya,KES,101.13,E
+KGZ,Kyrgyzstan,KGS,67.42,E
+KOR,South Korea,KRW,1145.95,E
+KUW,Kuwait,KWD,0.3,E
+LAT,Latvia,LVL,0.62,E
+LBY,Libya,LYD,1.38,E
+LIB,Lebanon,LBP,1507.89,E
+LIT,Lithuania,LTL,3.05,E
+MAD,Madagascar,EUR,0.9,E
+MAL,Malaysia,MYR,4,E
+MAR,Morocco,MAD,9.76,E
+MAU,Mauritius,EUR,0.9,E
+MEX,Mexico,MXN,18.37,E
+MON,Mongolia,MNT,1994.46,E
+MYA,Myanmar,MMK,1173.83,E
+NAM,Namibia,NAD,14.57,E
+NEP,Nepal,NPR,107.51,E
+NET,Netherlands,EUR,0.9,E
+NEW,New Zealand,NZD,1.39,E
+NIG,Nigeria,NGN,282.12,E
+NOR,Norway,NOK,8.35,E
+OMA,Oman,OMR,0.38,E
+PAK,Pakistan,PKR,104.71,E
+PAR,Paraguay,PYG,5571.65,E
+PER,Peru,PEN,3.29,E
+PHI,Philippines,PHP,46.86,E
+PLE,Palestine,EUR,0.9,E
+POL,Poland,PLN,3.96,E
+POR,Portugal,EUR,0.9,E
+QAT,Qatar,QAR,3.64,E
+ROM,Romania,RON,4.06,E
+RSA,South Africa,ZAR,14.57,E
+RUS,Russia,RUB,63.9,E
+RWA,Rwanda,RWF,778.98,E
+SAU,Saudi Arabia,SAR,3.75,E
+SIN,Singapore,SGD,1.34,E
+SLV,Slovakia,EUR,0.9,E
+SLO,Slovenia,EUR,0.9,E
+SPA,Spain,EUR,0.9,E
+SEN,Senegal,XOF,589.15,E
+SRB,Serbia,RSD,110.59,E
+SRI,Sri Lanka,LKR,145.82,E
+SUD,Sudan,SDG,6.07,E
+SWE,Sweden,CHF,0.97,E
+SWI,Switzerland,SEK,8.45,E
+SYR,Syria,SYP,216.45,E
+TAJ,Tajikistan,TJS,7.87,E
+THA,Thailand,THB,35.03,E
+TOG,Togo,XOF,588.96,E
+TUN,Tunisia,TND,2.19,E
+TUR,Turkey,TRY,2.9,E
+TKM,Turkmenistan,TMT,3.5,E
+UAE,United Arab Emirates,AED,3.67,E
+UGA,Uganda,UGX,3394.89,E
+UK,United Kingdom,EUR,0.9,E
+UKR,Ukraine,UAH,24.82,E
+URU,Uruguay,UYU,30.61,E
+USA,United States,USD,1,E
+UZB,Uzbekistan,UZS,2943.43,E
+VEN,Venezuela,VEF,9.95,E
+VIE,Vietnam,VND,22301.52,E
+ZIM,Zimbabwe,EUR,0.9,E
